@@ -1,4 +1,6 @@
 # MindFul Surf
+![Screenshot](Screenshot(64).png)
+
 A Chrome extension that tracks and monitors the websites you visit. It provides insights into your browsing habits, helping you understand where you spend your time online.
 
 Features
